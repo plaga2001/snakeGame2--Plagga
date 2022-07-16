@@ -1,0 +1,11 @@
+body {
+  background: -webkit-gradient(linear, left top, left bottom, from(#141e30), to(#243b55));
+  background: linear-gradient(to bottom, #141e30, #243b55);
+}
+
+.l-container {
+  height: 100vh;
+  max-width: 1200px;
+  margin: auto;
+}
+/*# sourceMappingURL=layouts.css.map */
